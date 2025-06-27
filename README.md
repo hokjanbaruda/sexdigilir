@@ -1,2 +1,1 @@
-# sexdigilir
-sexdigilir
+# [sexdigilir](https://sexdigilir.pages.dev)
